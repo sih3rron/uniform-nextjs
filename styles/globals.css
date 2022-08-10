@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+sans&family=Quantico');
+
+body {
+    font-family: "DM Sans", Arial, sans-serif;
+    padding: 20px 20px 60px;
+    max-width: 680px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+  }
+
+.Quantico {
+  font-family: "Quantico",Tahoma,serif;
+  font-size: 25px;
+  font-weight: Regular 400;
+}
