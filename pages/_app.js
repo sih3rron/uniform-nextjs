@@ -1,24 +1,12 @@
-import { UniformContext } from "@uniformdev/context-react";
-import { Context, enableContextDevTools } from "@uniformdev/context";
-
-
-import manifest from "../contextManifest.json";
 import '../styles/globals.css'
+import { UniformContext } from "@uniformdev/context-react";
+import { createUniformContext } from '../functions/uniformContext';
 
+const clientContext = createUniformContext();
 
-const context = new Context({
-  manifest,
-  defaultConsent: true,
-  plugins: [
-    enableContextDevTools(), 
-  ]
-});
-
-
-
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps, serverUniformContext}) {
   return (
-    <UniformContext context={context} >
+    <UniformContext context={serverUniformContext ?? clientContext} >
       <Component {...pageProps} />
     </UniformContext>
   )

@@ -13,6 +13,7 @@
     "@uniformdev/canvas-react": "^17.0.0",
     "@uniformdev/cli": "^17.0.0",
     "@uniformdev/context": "^17.0.0",
+    "@uniformdev/context-next": "^17.0.0",
     "@uniformdev/context-react": "^17.0.0",
     "contentful": "^9.1.33",
     "next": "12.2.3",
