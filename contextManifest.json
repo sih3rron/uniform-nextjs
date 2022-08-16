@@ -4,36 +4,12 @@
       "enr": {
         "1": {
           "cap": 10
+        },
+        "2": {
+          "cap": 10
         }
       },
       "sig": {
-        "gorgeousCampaign": {
-          "str": 10,
-          "cap": 100,
-          "dur": "s",
-          "crit": {
-            "op": "&",
-            "type": "G",
-            "clauses": [
-              {
-                "type": "QS",
-                "match": {
-                  "op": "*"
-                },
-                "queryName": "gclid"
-              },
-              {
-                "type": "QS",
-                "match": {
-                  "cs": false,
-                  "op": "=",
-                  "rhs": "hello_gorgeous"
-                },
-                "queryName": "mycampaign"
-              }
-            ]
-          }
-        },
         "buttonIsDemo": {
           "str": 10,
           "cap": 50,
@@ -48,26 +24,6 @@
                   "cs": false,
                   "op": "=",
                   "rhs": "demo"
-                },
-                "queryName": "button"
-              }
-            ]
-          }
-        },
-        "buttonIsDumb": {
-          "str": 10,
-          "cap": 50,
-          "dur": "s",
-          "crit": {
-            "op": "&",
-            "type": "G",
-            "clauses": [
-              {
-                "type": "QS",
-                "match": {
-                  "cs": false,
-                  "op": "=",
-                  "rhs": "dumb"
                 },
                 "queryName": "button"
               }

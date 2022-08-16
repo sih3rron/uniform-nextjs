@@ -1,0 +1,771 @@
+{ "data":
+[
+    {
+        "id": 0,
+        "name": "Carrera Vengeance Mens Mountain Bike - Black - XS, S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/340910/Carrera-Vengeance-Mens-Mountain-Bike---Black---XS-S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£370.00",
+        "numPrice": 370,
+        "rating": 4.1
+    },
+    {
+        "id": 1,
+        "name": "Carrera Karkinos Mens Mountain Bike - XS, S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/537950/Carrera-Karkinos-Mens-Mountain-Bike---XS-S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£340.00",
+        "numPrice": 340,
+        "rating": 4.1
+    },
+    {
+        "id": 2,
+        "name": "Apollo Phaze Mens Mountain Bike - Blue - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566205/Apollo-Phaze-Mens-Mountain-Bike---Blue---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£195.00",
+        "numPrice": 195,
+        "rating": 4.1
+    },
+    {
+        "id": 3,
+        "name": "Carrera Vengeance E Mens Electric Mountain Bike 2.0 - 18\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/446110/Carrera-Vengeance-E-Mens-Electric-Mountain-Bike-2.0---18-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,099.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 4,
+        "name": "Carrera Hellcat Mens Mountain Bike - Black - S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/346662/Carrera-Hellcat-Mens-Mountain-Bike---Black---S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£400.00",
+        "numPrice": 400,
+        "rating": 4.1
+    },
+    {
+        "id": 5,
+        "name": "Carrera Vengeance Mens Mountain Bike - Green - XS, S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/340966/Carrera-Vengeance-Mens-Mountain-Bike---Green---XS-S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£370.00",
+        "numPrice": 370,
+        "rating": 4.1
+    },
+    {
+        "id": 6,
+        "name": "Pendleton Somerby-E Electric Hybrid Bike - Mint - 17\", 19\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/137550/Pendleton-Somerby-E-Electric-Hybrid-Bike---Mint---17-19-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,049.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 7,
+        "name": "Pendleton Somerby Electric Bike - Midnight Blue  - 17\", 19\" Frame",
+        "image": "https://cdn.media.halfords.com/i/washford/514726/Pendleton-Somerby-Electric-Bike---Midnight-Blue----17-19-Frame?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,049.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 8,
+        "name": "Boardman SLR 8.9 105 Mens Road Bike - S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/365462/Boardman-SLR-8.9-105-Mens-Road-Bike---S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,150.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 9,
+        "name": "Boardman HYB 8.9E Womens Hybrid Electric Bike - 45cm, 48cm Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/135942/Boardman-HYB-8.9E-Womens-Hybrid-Electric-Bike---45cm-48cm-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£2,299.00",
+        "numPrice": 2,
+        "rating": 4.1
+    },
+    {
+        "id": 10,
+        "name": "Carrera Hustle 1 Mountain Bike - Grey/Green, M",
+        "image": "https://cdn.media.halfords.com/i/washford/477150/Carrera-Hustle-1-Mens-Mountain-Bike---Grey/Green---S-M-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£300.00",
+        "numPrice": 300,
+        "rating": 4.1
+    },
+    {
+        "id": 11,
+        "name": "Apollo Gridlok Junior Mountain Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/431598/Apollo-Gridlok-Junior-Mountain-Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£180.00",
+        "numPrice": 180,
+        "rating": 4.1
+    },
+    {
+        "id": 12,
+        "name": "Apollo Vivid Junior Mountain Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/198646/Apollo-Vivid-Junior-Mountain-Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£180.00",
+        "numPrice": 180,
+        "rating": 4.1
+    },
+    {
+        "id": 13,
+        "name": "Carrera Valour Disc Junior Mountain Bike - 26\" Wheel - Black",
+        "image": "https://cdn.media.halfords.com/i/washford/477974/Carrera-Valour-Disc-Junior-Mountain-Bike---26-Wheel---Black?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£330.00",
+        "numPrice": 330,
+        "rating": 4.1
+    },
+    {
+        "id": 14,
+        "name": "Carrera Vulcan Mens Mountain Bike - Blue - S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/347014/Carrera-Vulcan-Mens-Mountain-Bike---Blue---S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£420.00",
+        "numPrice": 420,
+        "rating": 4.1
+    },
+    {
+        "id": 15,
+        "name": "Carrera Vengeance Womens Mountain Bike - Grey - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/341510/Carrera-Vengeance-Womens-Mountain-Bike---Grey---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£370.00",
+        "numPrice": 370,
+        "rating": 4.1
+    },
+    {
+        "id": 16,
+        "name": "Carrera Valour Mens Mountain Bike - Grey- XS, S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/346918/Carrera-Valour-Mens-Mountain-Bike---Grey--XS-S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£320.00",
+        "numPrice": 320,
+        "rating": 4.1
+    },
+    {
+        "id": 17,
+        "name": "Pendleton Somerby Hybrid Bike Mint - 17\", 19\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/507530/Pendleton-Somerby-Hybrid-Bike-Mint---17-19-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£320.00",
+        "numPrice": 320,
+        "rating": 4.1
+    },
+    {
+        "id": 18,
+        "name": "BirdBike Electric Hybrid Bike - Gravity Gray",
+        "image": "https://cdn.media.halfords.com/i/washford/684918?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,499.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 19,
+        "name": "Boardman MHT 8.6 Mens Mountain Bike - Red - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/365950/Boardman-MHT-8.6-Mens-Mountain-Bike---Red---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£700.00",
+        "numPrice": 700,
+        "rating": 4.1
+    },
+    {
+        "id": 20,
+        "name": "Apollo Cupcake Kids Bike - 12\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607854/Apollo-Cupcake-Kids-Bike---12-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£90.00",
+        "numPrice": 90,
+        "rating": 4.1
+    },
+    {
+        "id": 21,
+        "name": "Hyper Nitro Circus Jet Fuel BMX Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/369406/Hyper-Nitro-Circus-Jet-Fuel-BMX-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£200.00",
+        "numPrice": 200,
+        "rating": 4.1
+    },
+    {
+        "id": 22,
+        "name": "Carrera Intercity Disc 8-Speed Folding Bike",
+        "image": "https://cdn.media.halfords.com/i/washford/536510/Carrera-Intercity-Disc-8-Speed-Folding-Bike?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£375.00",
+        "numPrice": 375,
+        "rating": 4.1
+    },
+    {
+        "id": 23,
+        "name": "Apollo Vortice Junior Hybrid Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/431590/Apollo-Vortice-Junior-Hybrid-Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£160.00",
+        "numPrice": 160,
+        "rating": 4.1
+    },
+    {
+        "id": 24,
+        "name": "Apollo Envy Junior Hybrid Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/435326/Apollo-Envy-Junior-Hybrid-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£140.00",
+        "numPrice": 140,
+        "rating": 4.1
+    },
+    {
+        "id": 25,
+        "name": "Indi ATB 1 Mens Mountain Bike 19\" Frame",
+        "image": "https://cdn.media.halfords.com/i/washford/588217/Indi-ATB-1-Mens-Mountain-Bike-19-Frame?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£140.00",
+        "numPrice": 140,
+        "rating": 4.1
+    },
+    {
+        "id": 26,
+        "name": "Apollo Twilight Womens Mountain Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566320/Apollo-Twilight-Womens-Mountain-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£170.00",
+        "numPrice": 170,
+        "rating": 4.1
+    },
+    {
+        "id": 27,
+        "name": "Apollo Butterflies Kids Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/193926/Apollo-Butterflies-Kids-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£100.00",
+        "numPrice": 100,
+        "rating": 4.1
+    },
+    {
+        "id": 28,
+        "name": "Carrera Crossfire 2 Mens Hybrid Bike - Black - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/345886/Carrera-Crossfire-2-Mens-Hybrid-Bike---Black---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£370.00",
+        "numPrice": 370,
+        "rating": 4.1
+    },
+    {
+        "id": 29,
+        "name": "Peppa Pig Balance Bike - 10\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/838554/Peppa-Pig-Balance-Bike---10-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£35.00",
+        "numPrice": 35,
+        "rating": 4.1
+    },
+    {
+        "id": 30,
+        "name": "Indi Balance Bike - 10\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/412232/Indi-Balance-Bike---10-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£30.00",
+        "numPrice": 30,
+        "rating": 4.1
+    },
+    {
+        "id": 31,
+        "name": "Apollo Wild Rose Kids Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/193934/Apollo-Wild-Rose-Kids-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£95.00",
+        "numPrice": 95,
+        "rating": 4.1
+    },
+    {
+        "id": 32,
+        "name": "Carrera Parva Mens Hybrid Bike - Silver - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/346142/Carrera-Parva-Mens-Hybrid-Bike---Silver---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£300.00",
+        "numPrice": 300,
+        "rating": 4.1
+    },
+    {
+        "id": 33,
+        "name": "Star Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194102/Star-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£70.00",
+        "numPrice": 70,
+        "rating": 4.1
+    },
+    {
+        "id": 34,
+        "name": "Monster Truck Kids Bike - 12\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194110/Monster-Truck-Kids-Bike---12-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£65.00",
+        "numPrice": 65,
+        "rating": 4.1
+    },
+    {
+        "id": 35,
+        "name": "Apollo Twinkles Unicorn Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194150/Apollo-Twinkles-Unicorn-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£110.00",
+        "numPrice": 110,
+        "rating": 4.1
+    },
+    {
+        "id": 36,
+        "name": "Apollo Slant Mens Mountain Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566122/Apollo-Slant-Mens-Mountain-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£170.00",
+        "numPrice": 170,
+        "rating": 4.1
+    },
+    {
+        "id": 37,
+        "name": "Apollo Excelle Womens Hybrid Bike - 14\", 17\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566700/Apollo-Excelle-Womens-Hybrid-Bike---14-17-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£170.00",
+        "numPrice": 170,
+        "rating": 4.1
+    },
+    {
+        "id": 38,
+        "name": "Apollo Fade Kids Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/193918/Apollo-Fade-Kids-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£100.00",
+        "numPrice": 100,
+        "rating": 4.1
+    },
+    {
+        "id": 39,
+        "name": "Buzz Lightyear Balance Bike - 10\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/838604/Buzz-Lightyear-Balance-Bike---10-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£35.00",
+        "numPrice": 35,
+        "rating": 4.1
+    },
+    {
+        "id": 40,
+        "name": "Apollo Kinx Junior Hybrid Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/431566/Apollo-Kinx-Junior-Hybrid-Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£160.00",
+        "numPrice": 160,
+        "rating": 4.1
+    },
+    {
+        "id": 41,
+        "name": "Apollo Switch Junior Hybrid Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/435278/Apollo-Switch-Junior-Hybrid-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£140.00",
+        "numPrice": 140,
+        "rating": 4.1
+    },
+    {
+        "id": 42,
+        "name": "Apollo Radar Mens Mountain Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/559978/Apollo-Radar-Mens-Mountain-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£240.00",
+        "numPrice": 240,
+        "rating": 4.1
+    },
+    {
+        "id": 43,
+        "name": "Apollo Outrage Kids Bike - 18\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/429470/Apollo-Outrage-Kids-Bike---18-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£120.00",
+        "numPrice": 120,
+        "rating": 4.1
+    },
+    {
+        "id": 44,
+        "name": "Apollo Claws Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194166/Apollo-Claws-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£95.00",
+        "numPrice": 95,
+        "rating": 4.1
+    },
+    {
+        "id": 45,
+        "name": "Apollo Independence Junior Mountain Bike - 26\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/198942/Apollo-Independence-Junior-Mountain-Bike---26-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£210.00",
+        "numPrice": 210,
+        "rating": 4.1
+    },
+    {
+        "id": 46,
+        "name": "Carrera Valour Womens Mountain Bike - White - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/347694/Carrera-Valour-Womens-Mountain-Bike---White---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£320.00",
+        "numPrice": 320,
+        "rating": 4.1
+    },
+    {
+        "id": 47,
+        "name": "Apollo Xpander Junior Mountain Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/431534/Apollo-Xpander-Junior-Mountain-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£185.00",
+        "numPrice": 185,
+        "rating": 4.1
+    },
+    {
+        "id": 48,
+        "name": "Carrera Virtuoso Mens Road Bike - White - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/348270/Carrera-Virtuoso-Mens-Road-Bike---White---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£400.00",
+        "numPrice": 400,
+        "rating": 4.1
+    },
+    {
+        "id": 49,
+        "name": "Carrera Cosmos Kids Bike - 16\" Wheel - Blue",
+        "image": "https://cdn.media.halfords.com/i/washford/456646/Carrera-Cosmos-Kids-Bike---16-Wheel---Blue?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£190.00",
+        "numPrice": 190,
+        "rating": 4.1
+    },
+    {
+        "id": 50,
+        "name": "Batman Kids Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/534141/Batman-Kids-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£140.00",
+        "numPrice": 140,
+        "rating": 4.1
+    },
+    {
+        "id": 51,
+        "name": "Carrera Crossfire 2 Mens Hybrid Bike - Red - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/345718/Carrera-Crossfire-2-Mens-Hybrid-Bike---Red---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£370.00",
+        "numPrice": 370,
+        "rating": 4.1
+    },
+    {
+        "id": 52,
+        "name": "Apollo Transfer Mens Hybrid Bike - 18\", 21\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/628108/Apollo-Transfer-Mens-Hybrid-Bike---18-21-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£170.00",
+        "numPrice": 170,
+        "rating": 4.1
+    },
+    {
+        "id": 53,
+        "name": "Apollo Interzone Junior Mountain Bike - 26\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/198926/Apollo-Interzone-Junior-Mountain-Bike---26-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£210.00",
+        "numPrice": 210,
+        "rating": 4.1
+    },
+    {
+        "id": 54,
+        "name": "Apollo Wizzer Balance Bike Blue - 10\"",
+        "image": "https://cdn.media.halfords.com/i/washford/435811/Apollo-Wizzer-Balance-Bike-Blue---10?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£45.00",
+        "numPrice": 45,
+        "rating": 4.1
+    },
+    {
+        "id": 55,
+        "name": "Apollo Belmont Mens Hybrid Bike - 18\", 21\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566627/Apollo-Belmont-Mens-Hybrid-Bike---18-21-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£240.00",
+        "numPrice": 240,
+        "rating": 4.1
+    },
+    {
+        "id": 56,
+        "name": "Carrera Vengeance Junior Mountain Bike - 26\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/429486/Carrera-Vengeance-Junior-Mountain-Bike---26-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£345.00",
+        "numPrice": 345,
+        "rating": 4.1
+    },
+    {
+        "id": 57,
+        "name": "Apollo Mermaid Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607888/Apollo-Mermaid-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£110.00",
+        "numPrice": 110,
+        "rating": 4.1
+    },
+    {
+        "id": 58,
+        "name": "Apollo Petal Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194238/Apollo-Petal-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£95.00",
+        "numPrice": 95,
+        "rating": 4.1
+    },
+    {
+        "id": 59,
+        "name": "X-Rated Exile BMX  Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/143184/X-Rated-Exile-BMX--Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£160.00",
+        "numPrice": 160,
+        "rating": 4.1
+    },
+    {
+        "id": 60,
+        "name": "Carrera Cosmos Kids Bike - 16\" Wheel - Purple",
+        "image": "https://cdn.media.halfords.com/i/washford/456638/Carrera-Cosmos-Kids-Bike---16-Wheel---Purple?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£190.00",
+        "numPrice": 190,
+        "rating": 4.1
+    },
+    {
+        "id": 61,
+        "name": "Carrera Zelos Mens Road Bike - Black - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/348198/Carrera-Zelos-Mens-Road-Bike---Black---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£350.00",
+        "numPrice": 350,
+        "rating": 4.1
+    },
+    {
+        "id": 62,
+        "name": "Apollo Police Patrol Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607870/Apollo-Police-Patrol-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£110.00",
+        "numPrice": 110,
+        "rating": 4.1
+    },
+    {
+        "id": 63,
+        "name": "Carrera Coast Balance Bike - 12\"",
+        "image": "https://cdn.media.halfords.com/i/washford/435860/Carrera-Coast-Balance-Bike---12?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£90.00",
+        "numPrice": 90,
+        "rating": 4.1
+    },
+    {
+        "id": 64,
+        "name": "Y Velo Junior Balance Bike - Pink - 9\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/289430/Y-Velo-Junior-Balance-Bike---Pink---9-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£50.00",
+        "numPrice": 50,
+        "rating": 4.1
+    },
+    {
+        "id": 65,
+        "name": "Apollo Force Kids Bike - 18\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/160196/Apollo-Force-Kids-Bike---18-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£130.00",
+        "numPrice": 130,
+        "rating": 4.1
+    },
+    {
+        "id": 66,
+        "name": "Assist Hybrid Electric Bike 2021 - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/840121/Assist-Hybrid-Electric-Bike-2021---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£499.00",
+        "numPrice": 499,
+        "rating": 4.1
+    },
+    {
+        "id": 67,
+        "name": "Apollo Spiral Womens Mountain Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566445/Apollo-Spiral-Womens-Mountain-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£200.00",
+        "numPrice": 200,
+        "rating": 4.1
+    },
+    {
+        "id": 68,
+        "name": "Apollo Glitz Kids Bike - 18\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/193958/Apollo-Glitz-Kids-Bike---18-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£120.00",
+        "numPrice": 120,
+        "rating": 4.1
+    },
+    {
+        "id": 69,
+        "name": "Apollo Cosmo Womens Hybrid Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/560638/Apollo-Cosmo-Womens-Hybrid-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£200.00",
+        "numPrice": 200,
+        "rating": 4.1
+    },
+    {
+        "id": 70,
+        "name": "Voodoo Bizango Mens Mountain Bike - S, M, L, XL Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/452670/Voodoo-Bizango-Mens-Mountain-Bike---S-M-L-XL-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£750.00",
+        "numPrice": 750,
+        "rating": 4.1
+    },
+    {
+        "id": 71,
+        "name": "Apollo Wizzer Balance Bike Blue - 12\"",
+        "image": "https://cdn.media.halfords.com/i/washford/435837/Apollo-Wizzer-Balance-Bike-Blue---12?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£55.00",
+        "numPrice": 55,
+        "rating": 4.1
+    },
+    {
+        "id": 72,
+        "name": "Apollo Cafe Womens Hybrid Bike - 16\", 19\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/566767/Apollo-Cafe-Womens-Hybrid-Bike---16-19-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£200.00",
+        "numPrice": 200,
+        "rating": 4.1
+    },
+    {
+        "id": 73,
+        "name": "Apollo Elyse Womens Hybrid Bike - Navy - 16\", 18\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/560703/Apollo-Elyse-Womens-Hybrid-Bike---Navy---16-18-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£230.00",
+        "numPrice": 230,
+        "rating": 4.1
+    },
+    {
+        "id": 74,
+        "name": "X-Rated Shockwave Kids BMX Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607813/X-Rated-Shockwave-Kids-BMX-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£120.00",
+        "numPrice": 120,
+        "rating": 4.1
+    },
+    {
+        "id": 75,
+        "name": "Sweetie Kids Bike - 12\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607946/Sweetie-Kids-Bike---12-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£65.00",
+        "numPrice": 65,
+        "rating": 4.1
+    },
+    {
+        "id": 76,
+        "name": "Carrera Vanquish Mens Road Bike - Red - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/348526/Carrera-Vanquish-Mens-Road-Bike---Red---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£450.00",
+        "numPrice": 450,
+        "rating": 4.1
+    },
+    {
+        "id": 77,
+        "name": "Apollo Valier Mens Mountain Bike - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/560463/Apollo-Valier-Mens-Mountain-Bike---14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£275.00",
+        "numPrice": 275,
+        "rating": 4.1
+    },
+    {
+        "id": 78,
+        "name": "Carrera Crosscity Folding Electric Bike 2020",
+        "image": "https://cdn.media.halfords.com/i/washford/750632/Carrera-Crosscity-Folding-Electric-Bike-2020?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£999.00",
+        "numPrice": 999,
+        "rating": 4.1
+    },
+    {
+        "id": 79,
+        "name": "Carrera Parva Womens Hybrid Bike - Grey - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/346414/Carrera-Parva-Womens-Hybrid-Bike---Grey---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£300.00",
+        "numPrice": 300,
+        "rating": 4.1
+    },
+    {
+        "id": 80,
+        "name": "X-Rated Shockwave Kids BMX Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/607821/X-Rated-Shockwave-Kids-BMX-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£135.00",
+        "numPrice": 135,
+        "rating": 4.1
+    },
+    {
+        "id": 81,
+        "name": "Outrider Kids Bike - 14\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/194030/Outrider-Kids-Bike---14-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£70.00",
+        "numPrice": 70,
+        "rating": 4.1
+    },
+    {
+        "id": 82,
+        "name": "X-Rated Mesh Dirt Jump Bike - 26\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/143192/X-Rated-Mesh-Dirt-Jump-Bike---26-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£190.00",
+        "numPrice": 190,
+        "rating": 4.1
+    },
+    {
+        "id": 83,
+        "name": "Apollo Creed Junior Mountain Bike - 24\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/198902/Apollo-Creed-Junior-Mountain-Bike---24-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£220.00",
+        "numPrice": 220,
+        "rating": 4.1
+    },
+    {
+        "id": 84,
+        "name": "Raleigh Evo-2 Folding Bike",
+        "image": "https://cdn.media.halfords.com/i/washford/177059/Raleigh-Evo-2-Folding-Bike?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£300.00",
+        "numPrice": 300,
+        "rating": 4.1
+    },
+    {
+        "id": 85,
+        "name": "Apollo Roxie Kids Bike - 16\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/232686/Apollo-Roxie-Kids-Bike---16-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£120.00",
+        "numPrice": 120,
+        "rating": 4.1
+    },
+    {
+        "id": 86,
+        "name": "Y Velo Junior Balance Bike - Red - 9\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/289406/Y-Velo-Junior-Balance-Bike---Red---9-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£50.00",
+        "numPrice": 50,
+        "rating": 4.1
+    },
+    {
+        "id": 87,
+        "name": "Apollo Jungle Pals Kids Bike - 12\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/193966/Apollo-Jungle-Pals-Kids-Bike---12-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£100.00",
+        "numPrice": 100,
+        "rating": 4.1
+    },
+    {
+        "id": 88,
+        "name": "Carrera Vengeance E Womens Electric Mountain Bike 2.0 - 14\", 16\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/445790/Carrera-Vengeance-E-Womens-Electric-Mountain-Bike-2.0---14-16-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£1,099.00",
+        "numPrice": 1,
+        "rating": 4.1
+    },
+    {
+        "id": 89,
+        "name": "Carrera Crossfire 1 Womens Hybrid Bike - White - S, M, L Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/346446/Carrera-Crossfire-1-Womens-Hybrid-Bike---White---S-M-L-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£320.00",
+        "numPrice": 320,
+        "rating": 4.1
+    },
+    {
+        "id": 90,
+        "name": "Pendleton Hanberry Kids Bike - 20\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/148774/Pendleton-Hanberry-Kids-Bike---20-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£200.00",
+        "numPrice": 200,
+        "rating": 4.1
+    },
+    {
+        "id": 91,
+        "name": "Apollo Elyse Womens Hybrid Bike - Purple - 16\", 18\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/560679/Apollo-Elyse-Womens-Hybrid-Bike---Purple---16-18-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£230.00",
+        "numPrice": 230,
+        "rating": 4.1
+    },
+    {
+        "id": 92,
+        "name": "Frozen 2 Balance Bike - 10\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/216998/Frozen-2-Balance-Bike---10-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£35.00",
+        "numPrice": 35,
+        "rating": 4.1
+    },
+    {
+        "id": 93,
+        "name": "Trolls 2 Balance Bike - 10\" Wheel",
+        "image": "https://cdn.media.halfords.com/i/washford/316542/Trolls-2-Balance-Bike---10-Wheel?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£30.00",
+        "numPrice": 30,
+        "rating": 4.1
+    },
+    {
+        "id": 94,
+        "name": "Apollo Evade Mens Mountain Bike  - 14\", 17\", 20\" Frames",
+        "image": "https://cdn.media.halfords.com/i/washford/560232/Apollo-Evade-Mens-Mountain-Bike----14-17-20-Frames?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£235.00",
+        "numPrice": 235,
+        "rating": 4.1
+    },
+    {
+        "id": 95,
+        "name": "Carrera Cosmos Kids Bike - 14\" Wheel - Silver",
+        "image": "https://cdn.media.halfords.com/i/washford/456614/Carrera-Cosmos-Kids-Bike---14-Wheel---Silver?fmt=auto&qlt=default&$sfcc_tile$&w=340",
+        "price": "£180.00",
+        "numPrice": 180,
+        "rating": 4.1
+    }
+]}
