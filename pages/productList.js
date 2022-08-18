@@ -1,4 +1,4 @@
-import Card from "../components/CardComponents/Card";
+/* import Card from "../components/CardComponents/Card";
 
 const productList = () => {
     return ( 
@@ -9,4 +9,4 @@ const productList = () => {
      );
 }
  
-export default productList;
+export default productList; */

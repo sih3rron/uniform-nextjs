@@ -45,3 +45,24 @@ Example:
 ### Manifest Versioning
 Context Criteria are published via a Manifest. When that manifest is published we should expose an iterator that increments a key-value pair to illustrate what version of the manifest is in Production. As a practice, versions of the manifest can be retained for 'x' days by our customer to enable their comparison if required. Exposing the manifest version on eventing provides a paper trail that can be reviewed. Consider this similar to rudimentary audit logging.
 
+
+
+## Describe alternatives you've considered
+
+1. **Stay as we are.** - The existing endpoint is adequate, however the ability to extend it improves it's value considerably.
+
+## Design considerations
+
+Not yet written.
+
+## Documentation/Video
+
+
+Not yet written.
+
+## Acceptance criteria
+
+<!-- Acceptance Criteria defines how a particular feature could be used from an end user’s perspective -->
+
+- [ ] Happy path scenarios for the feature
+- [ ] Optional: negative scenarios - handling of invalid input or unexpected user behavior.

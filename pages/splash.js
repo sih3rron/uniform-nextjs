@@ -12,6 +12,7 @@ import { createClient } from 'contentful';
 //components
 import Button from "../components/Button";
 import MockHero from "../components/MockHero";
+import Card from "../components/CardComponents/Card";
 
 
 const resolveRenderer = (component) => {
@@ -24,7 +25,7 @@ const splash = ({composition}) => {
     return ( 
         <>                
             <Composition data={composition} resolveRenderer={resolveRenderer}>
-                    <Slot name="content" />
+                   <Slot name={content} />
             </Composition>
 
         </>

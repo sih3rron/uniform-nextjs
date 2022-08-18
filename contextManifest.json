@@ -1,6 +1,25 @@
 {
   "project": {
     "pz": {
+      "agg": {
+        "malePremiumRangeCycles": {
+          "inputs": [
+            {
+              "dim": "1_1"
+            },
+            {
+              "dim": "2_5"
+            }
+          ]
+        },
+        "lookingForAMensBike": {
+          "inputs": [
+            {
+              "dim": "1_1"
+            }
+          ]
+        }
+      },
       "enr": {
         "1": {
           "cap": 10
@@ -32,6 +51,8 @@
         }
       }
     },
-    "test": {}
+    "test": {
+      "1": {}
+    }
   }
 }
