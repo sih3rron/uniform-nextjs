@@ -8,6 +8,7 @@
     "download:manifest": "uniform context manifest download --output ./contextManifest.json"
   },
   "dependencies": {
+    "@fullstory/browser": "^1.6.2",
     "@uniformdev/canvas": "^17.0.0",
     "@uniformdev/canvas-contentful": "^17.0.0",
     "@uniformdev/canvas-react": "^17.0.0",

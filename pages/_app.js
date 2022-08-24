@@ -2,6 +2,7 @@ import '../styles/globals.css'
 import { UniformContext } from "@uniformdev/context-react";
 import { createUniformContext } from '../functions/uniformContext'
 const clientContext = createUniformContext();
+import Layout from '../components/Layout';
 
 const options = {
   emitAll: false,
@@ -11,7 +12,9 @@ const options = {
 function MyApp({ Component, pageProps, serverUniformContext}) {  
   return (
     <UniformContext context={serverUniformContext ?? clientContext} >
-      <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </UniformContext>
   )
 }

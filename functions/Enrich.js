@@ -8,9 +8,9 @@ export function Enrich(e, name){
     e.preventDefault();
     let title = name;
     let attribute = "4";
-    if(title.includes(" Mens ")) {attribute = "1"; console.log("Mens")}
-    if(title.includes(" Womens ")) {attribute = "2"; console.log("Womens")}
-    if(title.includes(" Kids ") || title.includes(" Junior ")) {attribute = "3"; console.log("Kids")}
+    if(title.includes(" Mens ")) { attribute = "1"; console.log("Mens") }
+    if(title.includes(" Womens ")) { attribute = "2"; console.log("Womens") }
+    if(title.includes(" Kids ") || title.includes(" Junior ")) { attribute = "3"; console.log("Kids") }
     
     console.log(e.target.parentElement.previousSibling.querySelector('span[data-range]').getAttribute('data-range'))
     context.update({

@@ -1,19 +1,6 @@
 import Hero from '../components/Hero';
-import { CanvasClient } from "@uniformdev/canvas";
-
 
 export async function getStaticProps(){
-
-/*   const client = new CanvasClient({
-    apiKey: process.env.UNIFORM_API_KEY,
-    projectId: process.env.UNIFORM_PROJECT_ID,
-  });
-
-  const {composition} = await client.getCompositionById({
-    compositionId: "bcfd7041-1ffe-43db-83e5-8707aede4794",
-  }) */
-
-  
 
   const query = `{
       landingPage(id: "3Xs5XbkAN9x2qeS5L4wtoS") {

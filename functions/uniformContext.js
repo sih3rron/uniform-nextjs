@@ -15,7 +15,7 @@ import { genericDataPlugin } from "./integrations/genericDataPlugin";
       }),
       plugins: [ 
         enableContextDevTools(), 
-        genericDataPlugin()
+        genericDataPlugin(),
       ],
     });
   
